@@ -11,6 +11,9 @@ Includes:
 
 Future changes:
 1) Speed up algorithm (demo took 2 min for path finding)
+   a) Currently checking collision with all obstacles at every new state. Narrow it down by checking only within a small area
+   b) Make the algorithm greedier (higher coefficient for h val)
+   c) Use probabilistic methods for checkpoints
 2) Smooth interpolation between states
 3) Other types of nonholonomic vehicles
 
