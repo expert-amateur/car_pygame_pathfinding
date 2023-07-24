@@ -17,4 +17,4 @@ Future changes:
 2) Smooth interpolation between states
 3) Other types of nonholonomic vehicles
 
-NOTE: File may not run correctly simce it was implemented using VS Code's Jupyter extension. If any problems occur, use https://pypi.org/project/ipynb-py-convert/ to convert to .ipynb
+NOTE: File may not run correctly since it was implemented using VS Code's Jupyter extension. If any problems occur, use https://pypi.org/project/ipynb-py-convert/ to convert to .ipynb
